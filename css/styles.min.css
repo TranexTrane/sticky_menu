@@ -1,0 +1,2 @@
+body,html,header{height:100%}body{margin:0}header{background:url(../img/berserk.jpg) center;background-size:cover;position:relative}nav{position:fixed;width:100%;background:white;padding:20px 0;display:-webkit-box;display:-ms-flexbox;display:flex;top:0;-ms-flex-pack:distribute;justify-content:space-around}nav a{text-decoration:none;text-transform:uppercase;font-family:'Patua One', cursive;color:crimson}.hide{top:-80px}.wrapper{max-width:85%;margin:0 auto}h1,p{text-align:center}
+/*# sourceMappingURL=styles.min.css.map */
